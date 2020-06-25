@@ -28,4 +28,4 @@ key: page-about
 ---
 
 Hi, I'm Vedansh Priyadarshi.
-I am a third year student, pursuing B.Sc in Math and Computer Science at Ashoka University. I am interested in doing research in deep learning. I am also interested in [hacking](https://people.eecs.berkeley.edu/~bh/hacker.html) things
+I am a third year student, pursuing B.Sc in Math and Computer Science at Ashoka University. I am interested in deep learning research. I am also interested in [hacking](https://people.eecs.berkeley.edu/~bh/hacker.html) things. 
