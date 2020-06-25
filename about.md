@@ -1,8 +1,7 @@
 ---
 layout: article
 mathjax: true
-comments:
-  provider: false
+comments: false
 titles:
   # @start locale config
   en      : &EN       About
