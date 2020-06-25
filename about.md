@@ -27,4 +27,5 @@ titles:
 key: page-about
 ---
 
-$$\text{Hi, I'm Vedansh Priyadarshi. I am a third year student, pursuing B.Sc in Math and Computer Science at Ashoka University. I am interested in doing research in deep learning. I am also interested in [hacking](https://people.eecs.berkeley.edu/~bh/hacker.html) things}$$
+Hi, I'm Vedansh Priyadarshi.
+I am a third year student, pursuing B.Sc in Math and Computer Science at Ashoka University. I am interested in doing research in deep learning. I am also interested in [hacking](https://people.eecs.berkeley.edu/~bh/hacker.html) things
